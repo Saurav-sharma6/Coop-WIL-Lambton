@@ -1,4 +1,5 @@
-import React, { useContext } from 'react';
+// imprt React from 'react';
+import  { useContext } from 'react';
 import { assets } from '../../assets/assets';
 import { Link, useLocation } from 'react-router-dom';
 import { AppContext } from '../../context/AppContext';

@@ -1,4 +1,5 @@
-import React, { useContext } from 'react';
+import { useContext } from 'react';
+// import React from 'react'
 import { AppContext } from '../../context/AppContext';
 import CourseCard from './CourseCard';
 import { Link } from 'react-router-dom';
